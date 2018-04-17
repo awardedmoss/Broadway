@@ -1,0 +1,13 @@
+html{
+  font-family: helvetica;
+  text-align: center;
+}
+.mainheader{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.navbar{
+  font-size: 18px;
+  color: white;
+}
